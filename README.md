@@ -7,7 +7,7 @@ Credit Card Fraud Detection using Logistic Regression
 
 ## Code :
 
-The code is availaible at : https://github.com/priyanshujaiswal/creditcard/blob/main/credit_card_fraud_detection_project.ipynb (in this repository itself ) .
+The code is availaible at : https://github.com/priyanshujaiswal442/credit-card-fraud-detection/blob/main/credit_card_fraud_detection_project.ipynb (in this repository itself ) .
 
 ## The Dataset :
 
